@@ -8,6 +8,7 @@ Based off of:
 ![Console Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/console-maze-screenshot.png)
 
 ## Notes
+* Odd-numbered width and height for best-results
 * Data is represented in a 2-D Array (columns x rows)
 * Each Entry represents one tile and is classified as a wall or floor
 * A graph is also generated with each vertex representing a tile
@@ -21,6 +22,9 @@ let maze = Maze(width: 10, height: 10)
 
 //Retrieve graph
 let graph = maze.graph
+
+//Output maze to console
+maze.outputMaze()
 ```
 
 ## Clone Repository
