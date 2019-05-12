@@ -1,8 +1,8 @@
 # Maze-Generation
 A Swift program that uses Recursive-Backtracking to generate a maze 
 Based off of:
-- Programming Mazes: ![Video](https://www.youtube.com/watch?v=Y37-gB83HKE)
-- C++ Source Code: ![Code](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Mazes.cpp)
+- Programming Mazes: [Video](https://www.youtube.com/watch?v=Y37-gB83HKE)
+- C++ Source Code: [Code](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Mazes.cpp)
 
 ![Screenshot]()
 
