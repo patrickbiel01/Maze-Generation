@@ -5,7 +5,7 @@ Based off of:
 - [Programming Mazes](https://www.youtube.com/watch?v=Y37-gB83HKE)
 - [OneLoneCoder Maze C++ Source Code](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Mazes.cpp)
 
-![Screenshot]()
+![Console Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/console-maze-screenshot.png)
 
 ## Notes
 * Data is represented in a 2-D Array (columns x rows)
