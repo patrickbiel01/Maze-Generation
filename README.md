@@ -1,4 +1,4 @@
-# Maze-Generation
+# Maze Generation
 A Swift program that uses Recursive-Backtracking to generate a maze
 
 Based off of:
@@ -19,7 +19,7 @@ Based off of:
 ```swift
 //Width - Number of Columns
 //Height - Number of Rows
-let maze = Maze(width: 10, height: 10)
+let maze = Maze(width: 11, height: 11)
 
 //Retrieve graph
 let graph = maze.graph
