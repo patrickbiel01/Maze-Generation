@@ -6,6 +6,7 @@ Based off of:
 - [OneLoneCoder Maze C++ Source Code](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Mazes.cpp)
 
 ![Console Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/console-maze-screenshot.png)
+![Game Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/game-maze-screenshot.png)
 
 ## Notes
 * Odd-numbered width and height for best-results
