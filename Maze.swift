@@ -208,5 +208,19 @@ class Maze {
             }
         }
     }
+    
+    func outputMaze() {
+        for y in 0..<data.count {
+            var line = ""
+            for x in 0..<data[y].count {
+                if data[y][x].cellType == .Space {
+                    line.append("  ")
+                }else if data[y][x].cellType == .Wall {
+                    line.append("[]")
+                }
+            }
+            print(line)
+        }
+    }
 
 }
