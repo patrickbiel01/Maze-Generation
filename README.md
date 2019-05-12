@@ -11,7 +11,7 @@ Based off of:
 * Data is represented in a 2-D Array (columns x rows)
 * Each Entry represents one tile and is classified as a wall or floor
 * A graph is also generated with each vertex representing a tile
-* The connections in the graph represent passages and are uniform in weight
+* The edges in the graph represent passages and are uniform in weight
 
 ## Use
 ```swift
