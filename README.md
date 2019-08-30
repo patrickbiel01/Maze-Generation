@@ -1,4 +1,5 @@
 # Maze Generation
+
 A Swift program that uses Recursive-Backtracking to generate a maze
 
 Based off of:
@@ -7,6 +8,9 @@ Based off of:
 
 ![Console Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/console-maze-screenshot.png)
 ![Game Screenshot](https://github.com/patrickbiel01/Maze-Generation/blob/master/game-maze-screenshot.png)
+
+### Used in the Relic Race App:
+Avaialble on the iOS App Store [here](https://apps.apple.com/ca/app/relic-race/id1476996951)
 
 ## Notes
 * Odd-numbered width and height for best-results
